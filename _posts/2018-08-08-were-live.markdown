@@ -7,26 +7,26 @@ categories:
 
 Welcome to my dev blog! There's still a lot of work to be done, but everything is up and running. Right now I've made myself a brand new [personal page](https://jcng.github.io/) (okay, it's just a prettier version of my r&eacute;sum&eacute;) and a blog to go along with it.
 
-##How was it made?
+## How was it made?
 
-###Sass
+### Sass
 My personal page is about as simple as it gets, as far as technology goes. The whole reason I wanted to create one in the first place was to practice my fundamentals in some kind of small self-contained project. The entire thing is done in plain ol' HTML and CSS, although I did dip my toes into Sass for the first time! I'd read so much about the merits of using a CSS preprocessor, and I figured this would be a good time to give it a try. I mostly found it helpful in relatively straightforward use cases, such as creating an easy-to-reference color palette or cleaning up clutter by nesting selectors. There's so much of the language that I didn't utilize, so I'm definitely excited to dive deeper the next time I use it.
 
-###No JavaScript
+### No JavaScript
 One of the things I wanted to do on this project was practice my vanilla JavaScript when building something from scratch. At work, I'm usually working with jQuery or making modifications to something that was already built, so I was really looking for a way to make sure my base JavaScript skills didn't regress. However, once I had gotten the main structure laid out with HTML and CSS, I realized there wasn't a realistic need for JS at all. I certainly didn't want my personal page to be one of those sites with [extraneous nausea inducing animation](https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity)! I did want to at least have a little bit of flair to my navigation bar though -- just some small interaction to make the site feel more alive. I'd seen a link hovering animation on other sites in which an underline would expand from the bottom middle of the link. I always thought it looked great, and figured it would be a nice stylistic fit for my site.
 
 After doing a quick search for ways to implement this, I found an [awesome post from Tobias Ahlin's beautiful blog](http://tobiasahlin.com/blog/css-trick-animating-link-underlines/). As it turns out, the effect can be achieved solely with CSS animations! For something small like this, CSS animations are [faster to implement](https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript), more lightweight, and fallback more gracefully if not supported. Because of this, I ended up with a JavaScript-free site...for now!
 
-###Responsive
+### Responsive
 It's not 2010 anymore, so of course my site has to be responsive! I'm pretty happy with how the layout worked out. After a few minutes of sketching on the back of an envelope, I had a rough idea of how I wanted the different parts of the page to move, then it was just a matter of setting up some simple media queries.
 
 Full "Desktop" Size:
-<img src="/images/screenshots/personal-large.png" alt="Screenshot full size" style="width: 30%;">
+<img src="/blog/images/screenshots/personal-large.png" alt="Screenshot full size" style="width: 30%;">
 
 Medium "Tablet" Size:
-<img src="/images/screenshots/personal-medium.png" alt="Screenshot medium size" style="width: 30%;">
+<img src="/blog/images/screenshots/personal-medium.png" alt="Screenshot medium size" style="width: 30%;">
 
 Small "Phone" Size:
-<img src="/images/screenshots/personal-small.png" alt="Screnshot small size" style="width: 30%;">
+<img src="/blog/images/screenshots/personal-small.png" alt="Screnshot small size" style="width: 30%;">
 
 ##What's next?
