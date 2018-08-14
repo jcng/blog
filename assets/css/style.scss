@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+// Colors
+$base-medium: #727272;
+
+.postImg {
+    border: 1px solid $base-medium;
+}

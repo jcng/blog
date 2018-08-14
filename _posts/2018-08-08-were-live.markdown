@@ -4,6 +4,11 @@ title:  "We're Live!"
 date:   2018-08-08 12:40:51 -0700
 categories: 
 ---
+<style>
+.postImg {
+  border: 1px solid #cccccc;
+}
+</style>
 
 Welcome to my dev blog! There's still a lot of work to be done, but everything is up and running. Right now I've made myself a brand new [personal page](https://jcng.github.io/) (okay, it's just a prettier version of my r&eacute;sum&eacute;) and a blog to go along with it.
 
