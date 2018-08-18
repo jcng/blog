@@ -4,11 +4,6 @@ title:  "We're Live!"
 date:   2018-08-08 12:40:51 -0700
 categories: 
 ---
-<style>
-.postImg {
-  border: 1px solid #cccccc;
-}
-</style>
 
 Welcome to my dev blog! There's still a lot of work to be done, but everything is up and running. Right now I've made myself a brand new [personal page](https://jcng.github.io/) (okay, it's just a prettier version of my r&eacute;sum&eacute;) and a blog to go along with it.
 
@@ -44,7 +39,22 @@ It's not 2010 anymore, so of course my site has to be responsive. I'm pretty hap
 </div>
 
 ### Jekyll
+I knew from the start that I wanted something very lightweight to build my blog on. I didn't have any lofty aspirations for it -- all I wanted was something that let me easily author posts and do some rudimentary sorting based on tags. A full-fledged CMS for something like that seemed like overkill. I didn't want my site getting bogged down by a bunch of features I never planned on using. A nice bonus is that since Jekyll has relatively little going on under the hood, it's pretty simple for me to get in and tinker with the site without the overhead of reading a novel's worth of documentation.
+
+I do have some concerns that I may eventually "outgrow" Jekyll and desire a more feature-rich platform to work with. However, since the blog is essentially just a collection of markdown files, I'm hoping that moving elsewhere won't be too painful.
 
 ## What's next?
 
-Make everything pretty, start some new projects! (Detail what can be expected on the blog)
+### Making Everything Pretty
+
+The base Jekyll theme is pretty barebones. While it does appeal to the minimalist in me, I think it does cross that very fine line between "sleek minimalism" and "devoid of character." I'm planning on tweaking the template and adding some more CSS to make the blog look more integrated with my personal page.
+
+Even though I just finished getting everything live, I already feel the urge to change my personal page as well. Especially after seeing the aforementioned blog by Tobias Ahlin, I'm feeling inspired to make the page pop a little more. That said, it's probably not a good idea to just continually redesign the site back-to-back, so this probably isn't going to be an immediate priority for me. I'm thinking that I'll wait until I've been exposed to more libraries/frameworks before deciding on what direction I want to go with the design.
+
+### Exploring
+
+It seems like every time I learn about some new web technology, I also discover a dozen more that sound interesting. While I definitely want to eventually specialize, for now I want to go exploring. As I learn new things, I'll be undertaking some small-scale projects in order to use those skill in a practical setting. As of now, I'm thinking about checking out [Materialize](https://materializecss.com/) as a solution for quickly deploying simple well-designed sites.
+
+### More Posts
+
+During all this, of course I'll also be updating this blog! Look out for more posts on what I'm working on and what has me excited in the world of web dev.
