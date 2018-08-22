@@ -230,8 +230,9 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  // padding: $spacing-unit 0;
   flex: 1;
+  background: $grey-color-light;
 }
 
 .page-heading {
@@ -248,6 +249,17 @@
 
   > li {
     margin-bottom: $spacing-unit;
+    background: $background-color;
+    padding: 20px 10px;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px #b5b5b5;
+
+    > h2 {
+      font-size: $base-font-size * 1.25;
+    }
+    >h3 {
+      font-size: $base-font-size * 1.15;
+    }
   }
 }
 
@@ -259,6 +271,10 @@
 .post-link {
   display: block;
   @include relative-font-size(1.5);
+}
+
+.read-more-link {
+  font-size: 14px;
 }
 
 
