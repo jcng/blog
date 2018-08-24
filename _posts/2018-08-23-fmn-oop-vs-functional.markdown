@@ -178,6 +178,8 @@ const sum = (arr) => arr.reduce((prev, current) => prev + current, 0)
 ~~~
 <span style="font-size: 0.8em;">Source: [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)</span>
 
+## Only the Surface
+This is only a very shallow overview of a complex topic. Just on this topic alone, there's still a ton of information that I did not get to touch on -- and this is before I even properly try my hand at functional programming! As I learn more I'll update this post, or make a new one if the topic is deep enough to merit it.
 
 ## Sources
 
@@ -192,5 +194,3 @@ const sum = (arr) => arr.reduce((prev, current) => prev + current, 0)
 [Chris Hokamp (Quora)](https://www.quora.com/What-are-the-advantages-of-functional-programming-over-object-oriented-programming-What-are-some-languages-that-are-mainly-functional)
 
 [Darrick Mckirnan (Medium)](https://medium.com/@darrickmckirnan/object-oriented-programming-oop-functional-programming-what-are-they-the-pros-and-cons-11f98a971e38)
-
-Look more into: OOP and encapsulation, distinct pros and cons of each, colloquial definition
