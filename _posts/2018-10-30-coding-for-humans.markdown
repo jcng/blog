@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Panasonic Prestige Microwave and my Programming Paradigm"
+title:  "The Panasonic Prestige Microwave and My Programming Paradigm"
 date:   2018-10-09 17:25:00 -0700
 categories: 
 ---
