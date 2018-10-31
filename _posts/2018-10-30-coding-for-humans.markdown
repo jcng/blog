@@ -5,7 +5,7 @@ date:   2018-10-09 17:25:00 -0700
 categories: 
 ---
 
-<img src="./images/panasonic-prestige.jpg" alt="Panasonic Prestige Microwave" class="postImg" style="width: 70%"/>
+<img src="/blog/images/panasonic-prestige.jpg" alt="Panasonic Prestige Microwave" class="postImg" style="width: 70%"/>
 
 A few weeks ago, a new microwave appeared in the break room of the office I work at. It had a rather highfalutin name: *The Genius Prestige*. While I'm not sure it deserves such a fancy title, it has one peculiar feature. Instead of the numberpad of a standard non-prestigious microwave, it has a single dial. Usually, I'm a big proponent for keeping interfaces standardized. There's no need to introduce a gimmick to an interface that people have been using for their entire lives.
 
