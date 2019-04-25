@@ -1,16 +1,14 @@
 ---
 layout: post
 title:  "Lightning Palette - A Quick, Usable, Color Scheme Generator"
-date:   2019-01-14 17:25:00 -0700
+date:   2019-03-21 17:25:00 -0700
 categories: 
 ---
-
-# Lightning Palette - A Quick, Usable, Color Scheme Generator
 
 ## Overview
 Lightning Palette is a simple web app with a simple purpose -- allow anyone to create a harmonius color scheme at the press of a button, regardless of whether they have a background in color theory or design.
 
-<img src="/blog/images/lightning-palette-thumb.jpg" alt="Lightning Palette Screenshot" class="postImg" style="width: 70%"/>
+<a href="https://jcng.github.io/lightning-palette/"><img src="/blog/images/screenshots/lightning-palette-thumb.jpg" alt="Lightning Palette Screenshot" class="postImg" style="width: 70%"/></a>
 
 **[View Project](https://jcng.github.io/lightning-palette/)**
 
@@ -24,7 +22,7 @@ Let's imagine a man named Aaron, the owner of a small shop that sells exotic che
 
 After a few false starts, Aaron draws up a dapper cheese wheel that he's happy with using to brand his shop. Unfortunately, when it comes to add color, he quickly finds that creating a harmonius color scheme isn't as easy as just choosing his three favorite colors. Perhaps he looks up some tips and sees something about complementary colors. "Complementary" sounds like a good thing right? He tries a few complementary combos and is dismayed to find that, while visually exciting, they make his store look more like a sports bar than a sophisticated cheese store.
 
-For someone like Aaron who's unfamiliar with color theory finding a combination of colors that look good together can be frustrating. The goal of Lightning Palette is to abstract those frustrations away behind theming descriptions that are easy for anybody to understand.
+For someone like Aaron who's unfamiliar with color theory finding a combination of colors that look good together can be frustrating. The goal of Lightning Palette is to abstract those frustrations away behind theming descriptions that are easy for anybody to understand.<!--break--> 
 
 (Okay, let's be real. I mostly just wanted a project to play around with and practice, and this is just a loose justification for its existence.)
 
